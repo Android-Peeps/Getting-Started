@@ -1,4 +1,4 @@
- ****  **** Hello,
+# Hello
 
 This is made to help Beginners kick start the learning process.
 
@@ -89,15 +89,15 @@ Open Developer options, and then scroll down to find and enable USB debugging.
 
 Hurrah! We have successfully compiled our first very own Android Application ;p
 
-Want to learn more : [https://developer.android.com/training/basics/firstapp/building-ui.html](https://developer.android.com/training/basics/firstapp/building-ui.html)
+##### Want to learn more : [https://developer.android.com/training/basics/firstapp/building-ui.html](https://developer.android.com/training/basics/firstapp/building-ui.html)
  - Open It <3
 
-YouTube Videos to help you learn FASTER and BETTER:
+#### YouTube Videos to help you learn FASTER and BETTER:
 
-Java Programming Tutorial by thenewboston : Watch Here [https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
+ **Java Programming Tutorial by thenewboston**  : Watch Here [https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28](https://www.youtube.com/playlist?list=PLFE2CE09D83EE3E28)
 
 
-Android App Development Tutorial by thenewboston : Watch Here
+ **Android App Development Tutorial by thenewboston ** : Watch Here
 [https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 
 
@@ -107,22 +107,24 @@ Android App Development Tutorial by thenewboston : Watch Here
 
 Android Studios logcat is a crucial part of the debug process when things don't go according to plan, as it indicates exactly what went wrong, and importantly, the lines of code that caused the unexpected behaviour. It's a powerful tool that you really need to get to grips with. Have a look at this Link for more:
 
-Here => https://developer.android.com/studio/debug/am-logcat.html
+ **Here**  => https://developer.android.com/studio/debug/am-logcat.html
 
-Install these AWESOME Apps on your Android Device for more learning!
+Install these  **AWESOME Apps**  on your Android Device for more learning!
 
-Solo Learn Java : https://play.google.com/store/apps/...
+##### Solo Learn Java : [Download](https://play.google.com/store/apps/details?id=com.sololearn.java)
 
-IDE for Android - AIDE : https://play.google.com/store/apps/...
 
-THIS IS THE END ... wait what? Not end of the world - End of this Guide/Post/Article or whatever you call this.
+##### IDE for Android - AIDE : [Download](https://play.google.com/store/apps/details?id=com.aide.ui&hl=en)
 
-BEST WISHES
+
+###### THIS IS THE END ... wait what? Not end of the world - End of this Guide/Post/Article or whatever you call this.
+
+### BEST WISHES
 
 With Regards,
 
 Android Peeps
 
-(Kuber Sharma & Mohan Cm)
+### (Kuber Sharma & Mohan Cm)
 
 
